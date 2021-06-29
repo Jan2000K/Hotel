@@ -1,0 +1,126 @@
+nav {
+    background-color:#faf6ea;
+}
+.carousel-inner{
+    height:50vw;
+}
+.carousel-item {
+    height:50vw;
+}
+#galerija img {
+    min-height:50vw;
+}
+.row {
+    margin-right:0;
+}
+.row>* {
+    padding-right: 0;
+}
+.col-lg-6{
+    margin-top:1vw;
+}
+
+#drugi {
+    background-color:#faf6ea;
+}
+#drugi h2 {
+    text-align: center;
+}
+#drugi p {
+    font-family: Verdana;
+    margin-top:4vw;
+}
+#vrsta {
+    margin-top:2vw;
+}
+#mnenja h1 {
+    text-align: center;
+    margin-top:4vw;
+    color:#F7882F;
+}
+blockquote,figcaption,cite {
+    color:#266150;
+}
+i {
+    font-size: 7vh;
+}
+.bi-star-fill{
+    color:orange;
+}
+.bi-calendar-check-fill{
+    color:green;
+}
+.bi-wifi{
+    color:blue;
+}
+.bi-geo-alt-fill{
+    color:red;
+}
+#ponudba {
+    margin-top:8vh;
+    background-color:#faf6ea;
+   
+}
+#ponudba h2 {
+    font-family: Cambria;
+    font-style:italic;
+    font-weight:bold;
+}
+h4 {
+    font-family: Copperplate;
+    font-style: oblique;
+    font-weight: bold;
+}
+#Kontakt {
+    background-color:aliceblue;
+    padding-bottom:5vw;
+}
+#map {
+    display:block;
+    height:50vh;
+    margin-top:2vw;
+    width:75%;
+    margin:auto;
+    border:3px solid yellowgreen;
+}
+
+#Kontakt h2 {
+    font-family:'Times New Roman', serif;
+    font-style:italic;
+    font-weight:bold;
+    text-align: center;
+    padding-top: 2vw;
+}
+#podatki {
+    background-color:#2A2D3D;
+}
+#socials {
+    text-align: center;
+    padding-bottom:3vw;
+}
+.fa {
+    margin-top:2vw;
+    margin-left:3vw;
+    padding:20px;
+    width:55px;
+    text-decoration: none;
+    border-radius: 50%;
+    color:white;
+    transition:opacity 0.5s;
+}
+.fa:hover{
+    color:white;
+    opacity:0.3;
+}
+.fa-facebook{
+    background:#2E43AF;
+}
+.fa-twitter{
+    background:#378FCC;
+}
+.fa-linkedin {
+    background:#152742;
+}
+.fa-instagram {
+    background:#310C5C;
+}
